@@ -9,7 +9,7 @@ const IndexPage = () => (
     <h1>Brodey Newman</h1>
     <p>
       I&apos;m a senior software engineer and business owner, <br />
-      currently working as an engineering manager at
+      currently writing code at
       <a
         style={{
           color: '#621FE8',

@@ -23,10 +23,10 @@ const Layout = ({ children }) => (
     >
       <main>{children}</main>
       <footer style={{ marginTop: 50, display: 'flex', alignItems: 'center' }}>
-        <div style={{ padding: '0px 8px 25px 0px' }}>© {new Date().getFullYear()}, built by</div>
         <div style={{ width: 20, height: 'auto', marginBottom: '1.45rem' }}>
           <Image />
         </div>
+        <div style={{ padding: '0px 8px 25px 8px' }}>© {new Date().getFullYear()}</div>
       </footer>
     </div>
   </div>

@@ -27,7 +27,6 @@ const IndexPage = () => (
     <p>
       I specialize in building distributed systems within the cloud, <br />
       as well as performant and scalable user interfaces for the web. <br />
-      I also dabble in infrastructure code too.
     </p>
     <p>
       Some of my favorite tools are:

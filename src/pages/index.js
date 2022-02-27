@@ -19,9 +19,9 @@ const IndexPage = () => (
         }}
         rel="noopener noreferrer"
         target="_blank"
-        href="https://cleartrace.io/"
+        href="https://paperspace.com/"
       >
-        ClearTrace
+        Paperspace
       </a>.
     </p>
     <p>
@@ -44,7 +44,7 @@ const IndexPage = () => (
       I currently live and work in Charlotte, North Carolina. <br />
       I'm a wanna-be environmentalist, with goals to build <br /> software that helps better our climate future. <br />
       When I&apos;m not writing code (which is rare), <br />
-      you may find me running through the city, driving my Tesla, <br />
+      you may find me running through the city,<br />
       mountain biking, reading at a coffee shop, or somewhere traveling.
     </p>
     <h3>Get in touch</h3>

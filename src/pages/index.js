@@ -47,12 +47,34 @@ const IndexPage = () => (
       you may find me running through the city,<br />
       mountain biking, reading at a coffee shop, or somewhere traveling.
     </p>
+    <p>
+      I am the technical founder of the DAO (decentralized autonomous organization)
+        <a
+          style={{
+            color: '#621FE8',
+            marginLeft: 5,
+            textDecoration: 'none',
+            fontWeight: 'bold',
+          }}
+          href="https://drawdao.io"
+        >
+          DrawDAO
+        </a>
+        which hopes to help fund CDR current and future projects. <br />
+        If you're passionate about our climate, please feel free to reach out about how you can help.
+    </p>
     <h3>Get in touch</h3>
     <a
       style={{ color: '#621FE8', textDecoration: 'none' }}
       href="mailto:brodeynewman@gmail.com"
     >
       brodeynewman@gmail.com
+    </a>
+    <a
+      style={{ color: '#621FE8', textDecoration: 'none' }}
+      href="mailto:hello@drawdao.io"
+    >
+      hello@drawdao.io
     </a>
     <a
       style={{

@@ -48,7 +48,7 @@ const IndexPage = () => (
       mountain biking, reading at a coffee shop, or somewhere traveling.
     </p>
     <p>
-      <span>I am the technical founder of the climate DAO</span>
+      <span>I am the technical co-founder of</span>
       <a
         style={{
           color: '#621FE8',
@@ -73,6 +73,7 @@ const IndexPage = () => (
     >
       brodeynewman@gmail.com
     </a>
+    <br />
     <a
       style={{ color: '#621FE8', textDecoration: 'none' }}
       href="mailto:hello@drawdao.io"

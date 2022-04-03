@@ -58,7 +58,7 @@ const IndexPage = () => (
         }}
         href="https://drawdao.io"
       >
-        DrawDAO
+        DrawDAO,
       </a>
       <br />
       <span>

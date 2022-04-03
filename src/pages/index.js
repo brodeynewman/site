@@ -8,8 +8,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Brodey Newman</h1>
     <p>
-      I&apos;m a Senior Software Engineer / Engineering Manager and business owner, <br />
-      currently writing code at
+      I&apos;m a Senior Software Engineer, computer science student, and business owner.<br />
+      I'm currently helping build machine learning infrastructure at
       <a
         style={{
           color: '#621FE8',

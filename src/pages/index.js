@@ -58,8 +58,8 @@ const IndexPage = () => (
         }}
         href="https://drawdao.io"
       >
-        DrawDAO,
-      </a>
+        DrawDAO
+      </a>,
       <br />
       <span>
         which has the mission to drive awareness to, catalyze, and fund the creation of hundreds of new carbon drawdown projects. <br />

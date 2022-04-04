@@ -76,9 +76,9 @@ const IndexPage = () => (
     <br />
     <a
       style={{ color: '#621FE8', textDecoration: 'none' }}
-      href="mailto:hello@drawdao.io"
+      href="mailto:info@drawdao.io"
     >
-      hello@drawdao.io
+      info@drawdao.io
     </a>
     <a
       style={{

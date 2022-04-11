@@ -85,7 +85,6 @@ const IndexPage = () => (
         color: '#621FE8',
         textDecoration: 'none',
         display: 'block',
-        marginTop: 5,
       }}
       target="_blank"
       rel="noopener noreferrer"

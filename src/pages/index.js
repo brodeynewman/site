@@ -32,10 +32,9 @@ const IndexPage = () => (
       Some of my favorite tools are:
     </p>
     <ul>
-      <li style={{ margin: 0 }}>React</li>
       <li style={{ margin: 0 }}>AWS</li>
-      <li style={{ margin: 0 }}>Elixir</li>
-      <li style={{ margin: 0 }}>Node</li>
+      <li style={{ margin: 0 }}>Kubernetes</li>
+      <li style={{ margin: 0 }}>NodeJS</li>
       <li style={{ margin: 0 }}>Golang</li>
       <li style={{ margin: 0 }}>Terraform / CloudFormation</li>
     </ul>
@@ -47,25 +46,6 @@ const IndexPage = () => (
       you may find me running through the city,<br />
       mountain biking, reading at a coffee shop, or somewhere traveling.
     </p>
-    <p>
-      <span>I am the technical co-founder of</span>
-      <a
-        style={{
-          color: '#621FE8',
-          marginLeft: 5,
-          textDecoration: 'none',
-          fontWeight: 'bold',
-        }}
-        href="https://drawdao.io"
-      >
-        DrawDAO
-      </a>,
-      <br />
-      <span>
-        which has the mission to drive awareness to, catalyze, and fund the creation of hundreds of new carbon drawdown projects. <br />
-        If you're passionate about our climate, please feel free to reach out about how you can help.
-      </span>
-    </p>
     <h3>Get in touch</h3>
     <a
       style={{ color: '#621FE8', textDecoration: 'none' }}
@@ -74,12 +54,6 @@ const IndexPage = () => (
       brodeynewman@gmail.com
     </a>
     <br />
-    <a
-      style={{ color: '#621FE8', textDecoration: 'none' }}
-      href="mailto:info@drawdao.io"
-    >
-      info@drawdao.io
-    </a>
     <a
       style={{
         color: '#621FE8',

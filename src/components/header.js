@@ -27,7 +27,6 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
-    <script defer data-domain="brodeynewman.me" src="https://plausible.io/js/plausible.js"></script>
   </header>
 );
 
